@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Neo4j local
+*.dump
+*.backup
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
