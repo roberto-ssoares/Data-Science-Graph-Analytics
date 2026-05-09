@@ -1,0 +1,44 @@
+[project]
+name = "dio-neo4j-music-recommendation-graph"
+version = "0.1.0"
+description = "Construir um grafo musical com usuários, músicas, artistas, gêneros e interações, usando Cypher para gerar recomendações personalizadas."
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+authors = [
+    { name = "Roberto dos Santos Soares" }
+]
+dependencies = [
+    "pandas>=2.2.0",
+    "numpy>=1.26.0",
+    "matplotlib>=3.8.0",
+    "seaborn>=0.13.0",
+    "plotly>=5.20.0",
+    "duckdb>=1.0.0",
+    "pyarrow>=15.0.0",
+    "jupyterlab>=4.0.0",
+    "ipykernel>=6.29.0",
+    "nbformat>=5.10.0",
+    "nbconvert>=7.16.0",
+    "scikit-learn>=1.4.0",
+    "python-dotenv>=1.0.0",
+    "rich>=13.7.0"
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.6.0",
+    "pytest>=8.0.0"
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = []
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+line-ending = "auto"

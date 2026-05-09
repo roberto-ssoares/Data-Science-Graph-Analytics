@@ -1,0 +1,31 @@
+track_id,track_name,artist_id,genre_id,duration_seconds,popularity
+T001,Midnight Road,A001,G001,313,42
+T002,Electric Sky,A002,G005,156,82
+T003,Golden Hour,A003,G002,220,50
+T004,Cidade Azul,A004,G004,207,43
+T005,Street Lines,A005,G003,176,78
+T006,Late Night Jazz,A006,G006,289,40
+T007,Broken Signals,A007,G001,301,62
+T008,Future Lights,A008,G005,158,36
+T009,Mar Aberto,A009,G004,173,48
+T010,Flow State,A010,G003,209,67
+T011,Silent Thunder,A001,G001,304,36
+T012,Neon Heart,A002,G005,293,47
+T013,Sunset Dreams,A003,G002,316,79
+T014,Praia Distante,A004,G004,289,61
+T015,Concrete Beats,A005,G003,206,63
+T016,Blue Horizon,A006,G006,300,52
+T017,Wild Frequency,A007,G001,151,83
+T018,Digital Rain,A008,G005,190,79
+T019,Vento Norte,A009,G004,258,56
+T020,Urban Mirror,A010,G003,221,44
+T021,Rocking Waves,A001,G001,205,83
+T022,Synthetic Love,A002,G005,236,41
+T023,Pop Universe,A003,G002,173,59
+T024,Raiz Brasileira,A004,G004,174,57
+T025,Rap do Amanhã,A005,G003,238,73
+T026,Smooth Avenue,A006,G006,217,86
+T027,Fire Strings,A007,G001,161,81
+T028,Cloud Machine,A008,G005,267,69
+T029,Café com Lua,A009,G004,181,94
+T030,Night Groove,A010,G003,246,40
